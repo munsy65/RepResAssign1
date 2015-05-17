@@ -71,7 +71,7 @@ hist(stepDayTotal$Total,
 
 
 
-###Here is the calculation for mean and median of total number of steps taken per day.
+####Here is the calculation for mean and median of total number of steps taken per day.
 
 ```{r}
 stepMean <- mean(stepDayTotal$Total)
